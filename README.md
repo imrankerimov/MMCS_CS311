@@ -1,6 +1,10 @@
 ### Как использовать этот репозиторий
 
-git clone --recurse-submodules <репозиторий> 
+git clone --recurse-submodules https://github.com/imrankerimov/MMCS_CS311 
+
+git config --global user.name "Imran Kerimov"
+
+git config --global user.email "imran-kerimov0@rambler.ru"
 
 ### Как запустить тесты из репозитория
 
